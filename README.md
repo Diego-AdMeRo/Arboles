@@ -1,0 +1,3 @@
+# Arboles
+
+Algoritmo que permite crear un árbol binario cargado a la izquierda según los límites ingresados por el usuario, en donde sus nodos se encuentran representados por la suma de los anteriores, es decir, que la suma de los nodos hijos (izquierdo y derecho) dan como resultado al padre; después de ser generado el grafo, se implementó los algoritmos para el recorrido de árboles de manera recursiva (prefijo, infijo, posfijo y por niveles).
